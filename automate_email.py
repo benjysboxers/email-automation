@@ -2,9 +2,9 @@ import smtplib #SMTP client session object to send mail to any internet mahine w
 import ssl #encryption and peer authentication facilities for network sockets, both client and server side
 from email.message import EmailMessage
 
-email_sender ='good435lovesyou@gmail.com'
-email_pass = 'denvlnyrbwnfodbf'
-email_receiver = 'pfidowu@gmail.com'
+email_sender =''
+email_pass = ''
+email_receiver = ''
 
 subject = 'Testing sending emails using python'
 body = """
